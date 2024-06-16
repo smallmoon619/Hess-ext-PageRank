@@ -1,2 +1,2 @@
 # Hess-ext-PageRank
-Hessenberg-extrapolation for computing PageRank
+Here is the MATLAB code for computing PageRank using the Hessenberg-extrapolation algorithm.
