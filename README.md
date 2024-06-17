@@ -2,7 +2,7 @@
 1.Here is the MATLAB code for computing PageRank using the Hessenberg-extrapolation algorithm.  
 2.The comparison algorithms include the Arnoldi-type algorithm[1], the Arnoldi-Inout algorithm[2], the adaptively accelerated Arnoldi algorithm[3], the adaptive Power-GArnoldi algorithm[4] and the Hessenberg-type algorithm[5].  
 3.Who want to run the PageRank test for compariison. Pay attention to the following information.  
-3.1 Download the necessary test matrices listed in our paper (i.e., amazon0505, wiki-Talk, wikipedia-20070206, ljournal-2008) from "The SuiteSparse Matrix Collection" (https://sparse.tamu.edu/).  
+3.1 Download the necessary test matrices listed in our paper (i.e., ljournal-2008, amazon0505, wiki-Talk, wikipedia-20070206) from "The SuiteSparse Matrix Collection" (https://sparse.tamu.edu/).  
 3.2 Run the m-file "test.m".  
 3.3 Look at the output information.
 # References:
