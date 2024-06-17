@@ -9,5 +9,5 @@
 [1] Golub, G.H., Greif, C.: An Arnoldi-type algorithm for computing PageRank. BIT 46, 759–771 (2006)  
 [2] Gu, C.-Q., Wang, W.-W.: An Arnoldi-Inout algorithm for computing PageRank problems. J. Comput. Appl. Math. 309, 219–229 (2017)  
 [3] Yin, J.-F., Yin, G.-J., Ng, M.: On adaptively accelerated Arnoldi method for computing PageRank. Numer. Linear Algebra Appl. 19, 73–85 (2012)  
-[4] Wen, C., Hu, Q.-Y., Yin, G.-J., Gu, X.-M., Shen, Z.-L.: An adaptive Power-GArnoldi algorithm for computing PageRank. J. Comput. Appl. Math. 386, 113209 (2021)
+[4] Wen, C., Hu, Q.-Y., Yin, G.-J., Gu, X.-M., Shen, Z.-L.: An adaptive Power-GArnoldi algorithm for computing PageRank. J. Comput. Appl. Math. 386, 113209 (2021)  
 [5] Gu, X.-M., Lei, S.-L., Zhang, K., Shen, Z.-L., Wen, C., Carpentieri, B.: A Hessenberg-type algorithm for computing PageRank problems. Numer. Algorithms 89, 1845–1863 (2022)
